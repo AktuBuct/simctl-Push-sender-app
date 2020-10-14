@@ -1,0 +1,6 @@
+framework module Pods_PushSender {
+  umbrella header "Pods-PushSender-umbrella.h"
+
+  export *
+  module * { export * }
+}

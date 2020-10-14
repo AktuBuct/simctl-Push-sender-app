@@ -1,0 +1,16 @@
+PODS:
+  - ShellOut (2.0.0)
+
+DEPENDENCIES:
+  - ShellOut
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ShellOut
+
+SPEC CHECKSUMS:
+  ShellOut: 1393eefc56892e80d85339e233d3935e2e1ff6f9
+
+PODFILE CHECKSUM: 198652f250fc59c3134a487bd908fb4081208bd0
+
+COCOAPODS: 1.7.5
