@@ -1,0 +1,48 @@
+[
+  {
+    "aps": {
+      "alert": {
+        "loc-key": "Push example 1",
+        "title": "Важное сообщение",
+        "body": "Съешь еще этих мягких французских булок"
+      },
+      "sound": "default"
+    },
+    "type": "1",
+    "title": "Важное сообщение",
+    "message": "Съешь еще этих мягких французских булок",
+    "deeplink": "youhost://main"
+  },
+  {
+    "aps": {
+      "alert": {
+        "loc-key": "Push example 2",
+        "loc-args": [
+          "100.02"
+        ]
+      }
+    },
+    "type": "2",
+    "account": "41001414023007",
+    "operation_id": "477925920619080077",
+    "amount": "100.02",
+    "currency": "643",
+    "status": "success"
+  },
+  {
+    "aps": {
+      "alert": {
+        "loc-key": "Push example 3",
+        "loc-args": [
+          "100.02"
+        ]
+      }
+    },
+    "type": "2",
+    "account": "41001414023007",
+    "operation_id": "477925920619080077",
+    "amount": "100.02",
+    "currency": "643",
+    "status": "success"
+  }
+]
